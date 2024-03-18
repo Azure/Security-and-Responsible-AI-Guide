@@ -1,0 +1,1 @@
+bundle exec jekyll serve --config _config.local.yml --baseurl="/Security-and-Responsible-AI-Guide" --host localhost --port 4000 --livereload
