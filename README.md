@@ -27,6 +27,15 @@ Structured as a series of chapters, this guide provides:
 - **Hands-on Learning**: The guide includes a range of resources for practical learning, including links to how-to guides and tools that you can use to implement the concepts discussed in the guide.
 - **Supporting the Guide**: This guide exists as an evolving resource that builds on the collective knowledge and experience of security and responsible AI in the Azure community. Please **Star** this repository to show your support and contribute to the guide by [providing feedback, suggesting improvements, and sharing your own experiences](https://github.com/Azure/security-and-responsible-ai-guide/issues).
 
+## Table of Contents
+
+1. [Chapter 1: Understanding Security and Responsible AI](./chapters/chapter_01_understanding_security_and_responsible_ai.md)
+1. [Chapter 2: Designing Secure, Responsible AI Solutions](./chapters/chapter_02_designing_secure_responsible_ai_solutions.md)
+1. [Chapter 3: Identifying and Assessing AI Risks](./chapters/chapter_03_identifying_and_assessing_ai_risks.md)
+1. [Chapter 4: Implementing Security Measures](./chapters/chapter_04_implementing_security_measures.md)
+1. [Chapter 5: Monitoring and Auditing AI Solutions](./chapters/chapter_05_monitoring_and_auditing_ai_solutions.md)
+1. [Chapter 6: Continuous Improvement in Security and Responsible AI](./chapters/chapter_06_continuous_improvement_in_security_and_responsible_ai.md)
+
 ## Building and Previewing the Guide Locally
 
 Assuming [Ruby 3.3](https://github.com/rbenv/rbenv), [Bundler, and Jekyll](https://jekyllrb.com/) are installed on your machine, follow these steps to build and preview the guide locally.
