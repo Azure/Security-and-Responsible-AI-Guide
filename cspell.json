@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "enabled": true,
+  "words": [
+    "Anonymization",
+    "Entra",
+    "explainability",
+    "metaprompts",
+    "mitigations",
+    "msrc",
+    "operationalizing",
+    "OWASP",
+    "reputational"
+  ],
+  "import": [".\\cspell-names.json"],
+  "files": ["**/*.md"]
+}

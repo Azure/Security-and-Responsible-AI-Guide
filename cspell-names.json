@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [],
+    "ignoreWords": [
+        "simran",
+        "kaur",
+        "shep",
+        "sheppard",
+        "james",
+        "croft"
+    ],
+    "flagWords": []
+}
