@@ -14,6 +14,6 @@
     "OWASP",
     "reputational"
   ],
-  "import": [".\\cspell-names.json"],
+  "import": ["./cspell-names.json"],
   "files": ["**/*.md"]
 }
