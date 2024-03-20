@@ -34,6 +34,10 @@ Structured as a series of chapters, this guide provides:
 
 - An array of resources and tools to help you establish a strategy for implementing security and responsible AI practices on Azure.
 
+{: .note }
+
+> For a more comprehensive guide for designing and building production-ready AI solutions on Azure, see the [Azure AI in Production Guide](https://github.com/Azure/AI-in-Production-Guide).
+
 ## How to use this guide?
 
 - **Navigating the Guide**: Follow the chapters in sequence to build a comprehensive understanding of the concepts and best practices for implementing security and responsible AI practices on Azure. Each chapter builds on the previous one, providing a structured learning path. You can also jump to specific chapters based on your area of interest.
